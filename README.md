@@ -16,3 +16,4 @@ Improving button hover effects
 Refining navigation bar layout.
 Enhancing RPC connection stability.
 Reducing main bundle size.
+Adding error handling for wallet connection.
