@@ -34,3 +34,4 @@ Refactor: Simplify code logic.
 Add: New icons for dashboard.
 Update: Security patches.
 Improve: Loading animations.
+Patch 1
