@@ -22,3 +22,4 @@ Optimizing image assets.
 Updating installation guide.
 Adding contribution guidelines.
 Improving project description.
+Adding license information.
