@@ -25,3 +25,4 @@ Improving project description.
 Adding license information.
 Formatting README for better readability.
 Fix: Minor bug in header.
+Update: Metadata optimization.
