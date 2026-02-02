@@ -29,3 +29,4 @@ Update: Metadata optimization.
 Docs: Add project roadmap.
 UI: Adjust spacing for mobile.
 Clean: Remove unused assets.
+Fix: Responsive design fix.
