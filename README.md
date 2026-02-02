@@ -10,3 +10,4 @@ Modular components for seamless user experiences.
 Committed to the Onchain Summer vision.
 Building the infrastructure for global builders.
 Refactoring CSS for better responsiveness.
+Optimizing font loading speed.
