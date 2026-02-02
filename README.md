@@ -17,3 +17,4 @@ Refining navigation bar layout.
 Enhancing RPC connection stability.
 Reducing main bundle size.
 Adding error handling for wallet connection.
+Updating API endpoints for Base Mainnet.
