@@ -6,3 +6,4 @@ Building a modular dashboard for Base builders.
 Base Hub Prime: Focused on data transparency.
 Improving on-chain visualization for everyone.
 Empowering the next generation of Base builders.
+Modular components for seamless user experiences.
