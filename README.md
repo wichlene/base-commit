@@ -27,3 +27,4 @@ Formatting README for better readability.
 Fix: Minor bug in header.
 Update: Metadata optimization.
 Docs: Add project roadmap.
+UI: Adjust spacing for mobile.
