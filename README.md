@@ -23,3 +23,4 @@ Updating installation guide.
 Adding contribution guidelines.
 Improving project description.
 Adding license information.
+Formatting README for better readability.
