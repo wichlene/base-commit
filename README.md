@@ -13,3 +13,4 @@ Refactoring CSS for better responsiveness.
 Optimizing font loading speed.
 Updating color palette for Base branding.
 Improving button hover effects
+Refining navigation bar layout.
