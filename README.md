@@ -12,3 +12,4 @@ Building the infrastructure for global builders.
 Refactoring CSS for better responsiveness.
 Optimizing font loading speed.
 Updating color palette for Base branding.
+Improving button hover effects
