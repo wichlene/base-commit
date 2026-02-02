@@ -19,3 +19,4 @@ Reducing main bundle size.
 Adding error handling for wallet connection.
 Updating API endpoints for Base Mainnet.
 Optimizing image assets.
+Updating installation guide.
