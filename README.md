@@ -9,3 +9,4 @@ Empowering the next generation of Base builders.
 Modular components for seamless user experiences.
 Committed to the Onchain Summer vision.
 Building the infrastructure for global builders.
+Refactoring CSS for better responsiveness.
