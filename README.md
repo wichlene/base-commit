@@ -31,3 +31,4 @@ UI: Adjust spacing for mobile.
 Clean: Remove unused assets.
 Fix: Responsive design fix.
 Refactor: Simplify code logic.
+Add: New icons for dashboard.
