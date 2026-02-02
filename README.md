@@ -36,3 +36,4 @@ Update: Security patches.
 Improve: Loading animations.
 Patch 1
 wichlene
+primeairdrop
